@@ -1,0 +1,8 @@
+2017-09-14 18:42:43,709 INFO  controller.MainMenCtrl (MainMenCtrl.java:19) - Main menu Opened
+2017-09-14 18:42:46,328 INFO  controller.MainMenCtrl (MainMenCtrl.java:34) - Open highscores menu 
+2017-09-14 18:42:49,375 INFO  controller.HighScoresCtrl (HighScoresCtrl.java:36) - Back to Main Menu
+2017-09-14 18:42:50,782 INFO  controller.MainMenCtrl (MainMenCtrl.java:37) - Open Load Menu
+2017-09-14 18:42:51,797 INFO  controller.LoadPageCtrl (LoadPageCtrl.java:61) - Back to Main menu
+2017-09-14 18:42:53,032 INFO  controller.MainMenCtrl (MainMenCtrl.java:34) - Open highscores menu 
+2017-09-14 18:42:54,643 INFO  controller.HighScoresCtrl (HighScoresCtrl.java:36) - Back to Main Menu
+2017-09-14 18:42:55,455 INFO  controller.MainMenCtrl (MainMenCtrl.java:40) - Exited from the game 

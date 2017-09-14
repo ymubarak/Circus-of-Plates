@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  <Appenders>
+    <File name="info" fileName="info.log" append="false">
+      <PatternLayout pattern="%d %-5p %C{2} (%F:%L) - %m%n"/>
+    </File>
+  </Appenders>
+  <Loggers>
+    <Root level="info">
+      <AppenderRef ref="info"/>
+    </Root>
+  </Loggers>
+</Configuration>
