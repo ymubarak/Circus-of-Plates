@@ -10,7 +10,7 @@ The game was built using different Design Patterns.
 
 #### Themes window ,where you choose you're desired one. 
 
-![3](https://user-images.githubusercontent.com/16628980/31623680-883469e8-b2a0-11e7-86d6-f2fd0e20215d.png)
+![3](https://user-images.githubusercontent.com/16628980/31624009-905b31be-b2a1-11e7-8c28-acdc9c670436.png)
 
 #### Game snapshot.
 
